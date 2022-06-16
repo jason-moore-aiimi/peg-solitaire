@@ -1,0 +1,5 @@
+PLEASE_ENTER_IN_FORMAT = "Please enter in format row,column"
+ASK_WHAT_PEG_TO_MOVE = f"What peg do you want to move? ({PLEASE_ENTER_IN_FORMAT})"
+ASK_WHERE_TO_MOVE_PEG = f"Where do you want to move the peg? ({PLEASE_ENTER_IN_FORMAT})"
+UNPARSABLE_POSITION = f"Could not be parsed into a position. {PLEASE_ENTER_IN_FORMAT}"
+INVALID_MOVE = " Is not a valid move. The following moves are valid:"
